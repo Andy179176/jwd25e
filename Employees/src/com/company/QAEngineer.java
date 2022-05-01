@@ -6,7 +6,7 @@ public class QAEngineer extends Employee {
         super(name, salary);
     }
 
-
+    @Override
     public void doWork() {
         System.out.println("I am a QAEngineer and I check the programs");
     }
