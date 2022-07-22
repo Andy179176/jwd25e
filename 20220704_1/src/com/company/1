@@ -1,0 +1,22 @@
+void m() throws FileNotFoundException{
+
+try{
+
+ }catch (IOException | MyNewException  e){
+    2
+} catch ( Exception e){
+     1
+ }
+
+}
+
+              Queue
+              PriorityQueue
+List                    Deque           Set                 Map
+
+ArrayList               ArrayDeque      HashSet             HashMap
+LinkedList              LinkedList      TreeSet             TreeMap
+                                        LinkedHashSet       LinkedHashMap
+
+Vector
+Stack
